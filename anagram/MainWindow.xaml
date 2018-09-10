@@ -1,0 +1,23 @@
+﻿<Window x:Class="anagram.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:anagram"
+        mc:Ignorable="d"
+        Title="Anagrams" Height="450" Width="800">
+    <Grid>
+        <Border Padding="10">
+            <StackPanel>
+                <TextBlock Text="Enter a list of words with a space in between each word." Margin="0 0 0 5"/>
+                <TextBox x:Name="WordTextBox" Padding="5"/>
+                <Button x:Name="SubmitButton" Click="SubmitButton_Click"  Content="Submit Words" Width="100" Margin="0 10"></Button>
+
+                <TextBlock Text="Anagram Results" FontWeight="Bold" Margin="0 10"/>
+                <ScrollViewer MaxHeight="250">
+                    <TextBlock x:Name="ResultTextBlock" />
+                </ScrollViewer>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
