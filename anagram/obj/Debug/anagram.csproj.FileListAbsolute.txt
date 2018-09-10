@@ -1,0 +1,15 @@
+C:\Users\jamesly\source\repos\anagram\anagram\bin\Debug\anagram.exe.config
+C:\Users\jamesly\source\repos\anagram\anagram\bin\Debug\anagram.exe
+C:\Users\jamesly\source\repos\anagram\anagram\bin\Debug\anagram.pdb
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.csprojAssemblyReference.cache
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\MainWindow.g.cs
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\App.g.cs
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram_MarkupCompile.cache
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram_MarkupCompile.lref
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\MainWindow.baml
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.g.resources
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.Properties.Resources.resources
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.csproj.GenerateResource.cache
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.csproj.CoreCompileInputs.cache
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.exe
+C:\Users\jamesly\source\repos\anagram\anagram\obj\Debug\anagram.pdb
