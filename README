@@ -1,4 +1,4 @@
-This was made with Visual Studio 2017 as a WPF App.
+This was made with Visual Studio 2017 as a WPF App on Windows OS.
 
 Build and run the app, then type a list of words that are separated by spaces.
 Press the submit button when you are done and the results will show under "Anagram Results"
